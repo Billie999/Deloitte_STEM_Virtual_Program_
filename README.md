@@ -70,3 +70,11 @@ Writing a software development proposal helped me to gain practical skills in pl
 A big news publication has revealed sensitive private information of Daikibo Industrials' – a production problem has caused their assembly lines to stop, threatening the smooth operation of supply chains relying on Daikibo’s products. The client suspects the security of their new status board may have been breached. The task to resolve is to identify the security issue which led to a leak of private company information. Working on this taks helped me gain pratical skills in log inspection, computer networks and web security.
 
 ![image](https://github.com/Billie999/Deloitte_Technology_Project/assets/60508084/e88e3546-2035-4f06-8aa5-e5df875b79eb)
+
+**Task 5. Forensic Technology**
+
+After a worrisome number of internal complaints on gender inequality (in terms of pay), Daikibo Industrials wants us to help them investigate.
+The Forensic Tech team has built an algorithm to quantify “level of gender pay equality” for most/all job roles within the company, in all company locations. Our Forensics lead thinks it will be a great welcoming task for me to finish the job. While working on investigation into unfair pay I hgained practical skills with digital spreadsheets.
+
+![image](https://github.com/Billie999/Deloitte_Technology_Project/assets/60508084/4772f74e-268f-465a-b53a-f72090514004)
+
