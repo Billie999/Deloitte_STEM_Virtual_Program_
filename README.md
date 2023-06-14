@@ -65,7 +65,7 @@ What to include in the developmental proposal:
 
 Writing a software development proposal helped me to gain practical skills in planning, formal communication and software development process.
 
-![image](https://github.com/Billie999/Deloitte_Technology_Project/assets/60508084/8169242e-61bb-480e-88b3-61a5f826e0c1)
+
 
 **Task 4. Cyber Security**
 
@@ -77,8 +77,7 @@ A big news publication has revealed sensitive private information of Daikibo Ind
 
 After a worrisome number of internal complaints on gender inequality (in terms of pay), Daikibo Industrials wants us to help them investigate.
 The Forensic Tech team has built an algorithm to quantify “level of gender pay equality” for most/all job roles within the company, in all company locations. Our Forensics lead thinks it will be a great welcoming task for me to finish the job. While working on investigation into unfair pay I gained practical skills with digital spreadsheets.
-
-![image](https://github.com/Billie999/Deloitte_Technology_Project/assets/60508084/3bc3f755-decf-426f-a042-bfbf4b959108)
+![image](https://github.com/Billie999/Deloitte_Technology_Project/assets/60508084/0694e120-51ed-4243-912f-19c7b27a658a)
 
 
 
