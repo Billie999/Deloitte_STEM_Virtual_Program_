@@ -7,7 +7,7 @@ This repository contains my submission to the [Deloitte STEM Virtual Program](ht
 
 *********
 
-# $${\color{grassgreen}What \space will \space you \space learn?}$$
+# $${\color{#00CC00}What \space will \space you \space learn?}$$
 
 *********
 
