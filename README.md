@@ -11,7 +11,7 @@ This repository contains my submission to the [Deloitte STEM Virtual Program](ht
 
 **Task 1. Coding**
 
-Daikibo Industrials is a global leader in the manufacturing of heavy machinery, founded and headquartered in Tokyo, Japan. It is in the process of integrating IIoT (Industrial Internet-of-Things) devices to monitor, measure and analyze their manufacturing processes. Half of their infrastructure user devices streaming telemetry data in one format, and the other half - in another. They need help to combine the two. My task is to build the data unification algorithm that combines two data models. Working on this task you I gained practical skills in programming with Python and data structures.
+Daikibo Industrials is a global leader in the manufacturing of heavy machinery, founded and headquartered in Tokyo, Japan. It is in the process of integrating IIoT (Industrial Internet-of-Things) devices to monitor, measure and analyze their manufacturing processes. Half of their infrastructure user devices streaming telemetry data in one format, and the other half - in another. They need help to combine the two. First task is to build the data unification algorithm that combines two data models. Working on this task I gained practical skills in programming with Python and data structures.
 
 
 ![image](https://github.com/Billie999/Deloitte_Technology_Project/assets/60508084/5e8bac9c-24cd-4911-a47d-57e413e3dc33)
@@ -31,7 +31,7 @@ The reason this client wanted to collect telemetry was to answer 2 questions:
 1.	In which location did machines break the most?
 2.	What are the machines that broke most often in that location?
 
-Second task is to manipulate, analyze and visualize  all telemetry data with Tableau to deliver isignts that will help in answering client's questions. Working on this task I gained practical skills with data modeling, data analysis and visualisations with Tableau of telemetry data.
+Second task is to manipulate, analyze and visualize  all telemetry data with Tableau to deliver isights that will help in answering client's questions. Working on this task I gained practical skills with data modeling, data analysis and visualisations with Tableau of telemetry data.
 
 ![image](https://github.com/Billie999/Deloitte_Technology_Project/assets/60508084/5995d5db-cd54-49c6-a2d0-82d62723b99f)
 
@@ -64,8 +64,6 @@ What to include in the developmental proposal:
   - Let the client know they can rely on continuous product support (bug fixes, support tickets, new functionality)
 
 Writing a software development proposal helped me to gain practical skills in planning, formal communication and software development process.
-
-
 
 **Task 4. Cyber Security**
 
