@@ -6,7 +6,7 @@
 This repository contains my submission to the [Deloitte STEM Virtual Program](https://www.theforage.com/virtual-internships/prototype/YPWCiGNTkr6QxcpEu/Deloitte-STEM-Virtual-Experience-Program). This program has been designed help you build your skills and confidence to pursue a career in STEM. It’s a great chance to uncover the exciting opportunities at Deloitte!
 
 *********
- $${\color{#00CC00}What \space will \space you \space learn?}$$
+# $${\color{#00CC00}What \space will \space you \space learn?}$$
 *********
 
 **Task 1. Coding**
