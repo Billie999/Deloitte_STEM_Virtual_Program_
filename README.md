@@ -47,7 +47,7 @@ Third task is focused on writing a formal & informative, but short development p
 
 What to include in the developmental proposal:
 
-***1. Overview**
+**1. Overview**
   - An intro to the proposal and a high-level description of the project
 
 **2.	Scope**
@@ -65,4 +65,8 @@ What to include in the developmental proposal:
 
 Writing a software development proposal helped me to gain practical skills in planning, formal communication and software development process.
 
-![image](https://github.com/Billie999/Deloitte_Technology_Project/assets/60508084/faf3df98-9f55-4d10-9166-e267ed2cd6a6**=600x400**)
+**Task 4. Cyber Security**
+
+A big news publication has revealed sensitive private information of Daikibo Industrials' – a production problem has caused their assembly lines to stop, threatening the smooth operation of supply chains relying on Daikibo’s products. The client suspects the security of their new status board may have been breached. The task to resolve is to identify the security issue which led to a leak of private company information. Working on this taks helped me gain pratical skills in log inspection, computer networks and web security.
+
+![image](https://github.com/Billie999/Deloitte_Technology_Project/assets/60508084/e88e3546-2035-4f06-8aa5-e5df875b79eb)
