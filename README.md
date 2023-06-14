@@ -65,4 +65,4 @@ What to include in the developmental proposal:
 
 Writing a software development proposal helped me to gain practical skills in planning, formal communication and software development process.
 
-![image](https://github.com/Billie999/Deloitte_Technology_Project/assets/60508084/faf3df98-9f55-4d10-9166-e267ed2cd6a6)
+![image](https://github.com/Billie999/Deloitte_Technology_Project/assets/60508084/faf3df98-9f55-4d10-9166-e267ed2cd6a6**=600x400**)
